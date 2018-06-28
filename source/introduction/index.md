@@ -1,4 +1,4 @@
-## 楽しい山行のために技術と知識を身につけれます。
+## 楽しい山行のために技術と知識を身につけれます
 ### You can achive technics and knowledge for pleasant Mountaineering.
 ### We Naniwa gakuyu club also welcome foreign citizenship who lives in Kansai region for climing with us.
 
