@@ -1,0 +1,7 @@
+#!/bin/bash
+
+read gone
+read date
+dir=`echo $date | sed -e 's/.*: //;'`
+
+grep '\[\]' | sed -e 's/.*(//;s/).*//;' | xargs -i mv {} $dir

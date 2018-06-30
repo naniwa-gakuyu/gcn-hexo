@@ -1,22 +1,15 @@
-## 楽しい山行のために技術と知識を身につけれます
-### You can achive technics and knowledge for pleasant Mountaineering.
-### We Naniwa gakuyu club also welcome foreign citizenship who lives in Kansai region for climing with us.
-
-<img src=gcn.png style="margin-left:100px"/>
-
 ## 2014年創立から大きなロマンを抱きアルパインスタイルで揺るぎなく、岩壁・岩稜に挑んでいます
 
 ### We have been challenging rock ridges and walls since our founding 2014 with ambition and alpine style of climing.
 
-<img src=intro2.jpg style="margin-right:100px"/>
-
+<img src=intro2.jpg style="margin-right:50px"/>
 
 <div style="text-align: right;">
 *** モットーは安全第一と徹底した基本第一　***
 *** 我々の仲間は我々仲間で助けるを基本にセルフレスキューを徹底しています ***
 *** （創立者、元長野県レスキュー隊） ***
 *** Safety first and thorough basics.  ***
-*** Enforcing self rescue to help our members by us.  ***
+*** Enforcing self rescue to help our members by ourself.  ***
 *** （Founder, former Nagano prefectual rescue team） ***
 </div>
 
@@ -35,4 +28,15 @@
 - 1～２か月に1度ぐらいのペースでアルプス方面へ会の山行を実施（山行予定をみてください）Having activities mostly on Japan Alpine every one or two months.
 - 土日だけではなく平日にも練習・山行あります。 Having Traning and Activities not only on weekends but also weekdays.
 詳しくは<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 Please <a href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
+
+
+## 会員の年齢構成 Members age distribution  (2018/6/29  23名)
+
+|   | 男性(Male) | 女性(Female)|
+|----------------|---------------|
+| 20代 | 3名 |   |
+| 30代 | 3名 | 1名 |
+| 40代 | 4名 | 1名 |
+| 50代 | 2名 | 5名 |
+| 60代以上 | 3名 | 1名 |
 
