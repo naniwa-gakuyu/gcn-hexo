@@ -1,5 +1,4 @@
 ## 2014年創立から大きなロマンを抱きアルパインスタイルで揺るぎなく、岩壁・岩稜に挑んでいます
-
 ### We have been challenging rock ridges and walls since our founding 2014 with ambition and alpine style of climing.
 
 <img src=intro2.jpg style="margin-right:50px"/>
@@ -23,11 +22,16 @@
 
 
 ## 活動 Activities
-- 関西近辺で月に一度ゲレンデ訓練を行っています。 Traning on mountains in Kansai region every mounth.
-- 毎月会の事務所にて定例会を開催し、山行の報告や打ち合わせを行っています。 Having monthly meeting at the office, reporting activities and plaining.
-- 1～２か月に1度ぐらいのペースでアルプス方面へ会の山行を実施（山行予定をみてください）Having activities mostly on Japan Alpine every one or two months.
-- 土日だけではなく平日にも練習・山行あります。 Having Traning and Activities not only on weekends but also weekdays.
-詳しくは<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 Please <a href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
+- 関西近辺で月に一度ゲレンデ訓練を行っています。 
+Traning on mountains in Kansai region every mounth.
+- 毎月会の事務所にて定例会を開催し、山行の報告や打ち合わせを行っています。 
+Having monthly meeting at the office, reporting activities and plaining.
+- 1～２か月に1度ぐらいのペースでアルプス方面へ会の山行を実施（山行予定をみてください）
+Having activities mostly on Japan Alpine every one or two months.
+- 土日だけではなく平日にも練習・山行あります。 
+Having Traning and Activities not only on weekends but also weekdays.
+詳しくは<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
+Please <a href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
 
 
 ## 会員の年齢構成 Members age distribution  (2018/6/29  23名)
