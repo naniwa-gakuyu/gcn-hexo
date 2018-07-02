@@ -2,7 +2,7 @@
 menu:
   Home: /
   会の紹介(Introduction): /introduction
-  活動記録(Archives): /archives
+  活動記録(Activity): /activity
   山行予定(Plan): /plan
   入会案内(Addmission): /addmission
 rss: /atom.xml
@@ -14,11 +14,16 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
+- links
 - tag
 - tagcloud
 - archive
 - recent_posts
+
+links:
+- {url: http://sangaku-osaka.com/link.html, title: 大阪府山岳連盟}
+- {url: http://cca-azumino.sakura.ne.jp/, title: 登攀クラブ安曇野}
+
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:

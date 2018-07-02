@@ -9,7 +9,7 @@
 *** （創立者、元長野県レスキュー隊） ***
 *** Safety first and thorough basics.  ***
 *** Enforcing self rescue to help our members by ourself.  ***
-*** （Founder, former Nagano prefectual rescue team） ***
+*** （Founder, former rescue team in Nagano） ***
 </div>
 
 
