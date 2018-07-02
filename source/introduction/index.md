@@ -27,7 +27,7 @@ Traning on mountains in Kansai region every mounth.
 - 毎月会の事務所にて定例会を開催し、山行の報告や打ち合わせを行っています。 
 Having monthly meeting at the office, reporting activities and planning.
 - 1～２か月に1度ぐらいのペースでアルプス方面へ会の山行を実施（山行予定をみてください）
-Having activities mostly on Japan Alps every once a month or every two months.
+Having activities mostly on Japan Alps once a month or every two months.
 - 土日だけではなく平日にも練習・山行あります。 
 Having Traning and Activities not only on weekends but also on weekdays.
 詳しくは<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
