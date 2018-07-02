@@ -5,7 +5,7 @@ menu:
   活動記録(Activity): /activity
   山行予定(Plan): /plan
   入会案内(Addmission): /addmission
-rss: /atom.xml
+rss: 
 
 # Content
 excerpt_link: Read More
