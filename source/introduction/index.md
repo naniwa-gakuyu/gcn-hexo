@@ -30,8 +30,8 @@ Having monthly meeting at the office, reporting activities and plaining.
 Having activities mostly on Japan Alpine every one or two months.
 - 土日だけではなく平日にも練習・山行あります。 
 Having Traning and Activities not only on weekends but also weekdays.
-詳しくは<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
-Please <a href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
+詳しくは<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
+Please <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
 
 
 ## 会員の年齢構成 Members age distribution  (2018/6/29  23名)

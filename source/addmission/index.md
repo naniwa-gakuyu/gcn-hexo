@@ -26,8 +26,8 @@ You will acquire safety mountaineering thoroughly.
 体験訓練や集会にご参加していただくことも可能です。
 It is also possible to join training and meeting for tiral.
 
-当会に興味のある方は、<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてご連絡ください。
-Please feel free to contact us by <a href="mailto:info_gcnaniwa@freeml.com">email</a>
+当会に興味のある方は、<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてご連絡ください。
+Please feel free to contact us by <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a>
 
 クライミングには初心者の方も『入門』から指導いたします。
 We will train beginner of climing from beginning.
@@ -55,5 +55,5 @@ Mountain insurance is required in each case.
 「なにわ岳友クラブ」は、「お問い合わせメール」に記入された貴方の「個人情報」を第三者に開示若しくは提供は一切しません。
 Our club never disclose nor supply personal informartion in email to a third party.
 
-** 会のこと、入会について、ゲレンデ訓練体験などのお問い合わせは<a href="mailto:info_gcnaniwa@freeml.com">メール</a>にてご連絡ください！！**
-** Aboout out club, addmission, and trial traing, please feel free to <a href="mailto:info_gcnaniwa@freeml.com">email</a> us !!**
+** 会のこと、入会について、ゲレンデ訓練体験などのお問い合わせは<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてご連絡ください！！**
+** Aboout out club, addmission, and trial traing, please feel free to <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us !!**
