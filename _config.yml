@@ -11,11 +11,10 @@ author: Copyright Naniwa Gakuyu Alpine Club All Rights Reserved.
 language:
 timezone:
 pretitle: 大阪府山岳連盟所属
-mailto: mailto:info_gcnaniwa@freeml.com?subject=問い合わせ
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://naniwa.gakuyu.club
+url: https://naniwa.gakuyu.club
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

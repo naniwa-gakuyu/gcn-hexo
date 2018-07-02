@@ -16,9 +16,9 @@
 ## 組織について Organization
 1. 登攀部 Climing division.
 2. 縦走部：テント泊「登攀部への通り門」 Traverse division.
-　の2部門で会員定数は25名「登攀部15名・縦走部10名」を限度として
-　活動活性化を図っています。
-  Limit of members is total 25(15 for Climing, 10 for Traverse), in order to activate activities.
+ の2部門で会員定数は25名「登攀部15名・縦走部10名」を限度として
+ 活動活性化を図っています。
+ Limit of members is total 25(15 for Climing, 10 for Traverse), in order to activate activities.
 
 
 ## 活動 Activities
@@ -43,4 +43,10 @@ Please <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us for 
 | 40代 | 4名 | 1名 |
 | 50代 | 2名 | 5名 |
 | 60代以上 | 3名 | 1名 |
+
+## 会の代表 Chairperson
+  山田慶周(国内外のバリエーションルートのプロ山岳ガイド)
+  Yoshichika Yamada
+  Professional Alpine Guide for variation route in domestic and overseas.
+
 

@@ -46,7 +46,7 @@ We will train beginner of climing from beginning.
 | 入会金 Addmission fee||￥８,０００
 | 年会費 Annual fee|一般会員 for General|￥６，０００
 | |学生会員 for Student|￥４，０００
-| |夫婦会員(２人) for married couple(including two)|￥１０，０００
+| |夫婦会員(２人) for married couple|￥１０，０００
 | |休会員 for Inactive member|￥２，０００
 いずれも、別途、山岳保険には入っていただきます。　
 Mountain insurance is required in each case.
