@@ -23,6 +23,7 @@ widgets:
 links:
 - {url: http://sangaku-osaka.com/link.html, title: 大阪府山岳連盟}
 - {url: http://cca-azumino.sakura.ne.jp/, title: 登攀クラブ安曇野}
+- {url: http://gcn.byoubu.com/old.html, title: 旧サイト}
 
 
 # display widgets at the bottom of index pages (pagination == 2)
