@@ -1,5 +1,5 @@
 ## 2014年創立から大きなロマンを抱きアルパインスタイルで揺るぎなく、岩壁・岩稜に挑んでいます
-### We have been challenging rock ridges and walls since our founding in 2014 using alpine style of climing with our ambition.
+### We have been challenging rock ridges and walls since our founding in 2014 using alpine style with our ambition.
 
 <img src=intro2.jpg style="margin-right:50px"/>
 
