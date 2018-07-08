@@ -1,0 +1,6 @@
+<% if (post.updated) { %>
+    <div class="article-updated">
+        <i class="fa fa-wrench"></i>
+        <time datetime="<%= date_xml(post.updated) %>" itemprop="dateUpdated"><%= date(post.updated, date_format) %></time>
+    </div>
+<% } %>
