@@ -1,4 +1,5 @@
-## 2014年創立から大きなロマンを抱きアルパインスタイルで揺るぎなく、岩壁・岩稜に挑んでいます
+## 大阪、関西を中心に活動している山岳会です。
+## 2014年の創立から大きなロマンを抱きアルパインスタイルで揺るぎなく、岩壁・岩稜に挑んでいます
 ### We have been challenging rock ridges and walls since our founding in 2014 using alpine style with our ambition.
 
 <img src=intro2.jpg style="margin-right:50px"/>
