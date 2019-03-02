@@ -19,18 +19,18 @@
 2. 縦走部：テント泊「登攀部への通り門」 Traverse division.
  の2部門で会員定数は25名「登攀部15名・縦走部10名」を限度として
  活動活性化を図っています。
- Limit of members is total 25(15 for Climing, 10 for Traverse), in order to activate activities.
+ Limit of members is 25 in total(15 for Climing, 10 for Traverse), in order to activate activities.
 
 
 ## 活動 Activities
 - 関西近辺で月に一度ゲレンデ訓練を行っています。 
-Traning on mountains in Kansai region every mounth.
+Training on mountains in Kansai region every mounth.
 - 毎月会の事務所にて定例会を開催し、山行の報告や打ち合わせを行っています。 
-Having monthly meeting at the office, reporting activities and planning.
+Having monthly meeting at our office, reporting activities and planning.
 - 1～２か月に1度ぐらいのペースでアルプス方面へ会の山行を実施（山行予定をみてください）
 Having activities mostly on Japan Alps once a month or every two months.
 - 土日だけではなく平日にも練習・山行あります。 
-Having Traning and Activities not only on weekends but also on weekdays.
+Having training and activities not only on weekends but also on weekdays.
 詳しくは<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
 Please <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us for further details.
 
@@ -58,6 +58,6 @@ Please <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us for 
 ## 会の代表 Chairperson
   山田慶周(国内外のバリエーションルートのプロ山岳ガイド)
   Yoshichika Yamada
-  Professional Alpine Guide for variation route in domestic and overseas.
+  Professional alpine guide for variation route in domestic and overseas.
 
 
