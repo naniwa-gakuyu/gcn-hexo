@@ -56,4 +56,4 @@ Mountain insurance is required in each case.
 Our club never disclose nor supply personal information in email to a third party.
 
 ** 会のこと、入会について、ゲレンデ訓練体験などのお問い合わせは<a target="_top" href="mailto:info_gcnaniwa@freeml.com">メール</a>にてご連絡ください！！**
-** Aboout out club, addmission, and trial training, please feel free to <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us !!**
+** Aboout out club, admission, and trial training, please feel free to <a target="_top" href="mailto:info_gcnaniwa@freeml.com">email</a> us !!**
