@@ -26,7 +26,7 @@ You will acquire safety mountaineering thoroughly.
 体験訓練や集会にご参加していただくことも可能です。
 It is also possible to join training and meeting for trial.
 
-当会に興味のある方はに<img style="display:inline;height:1em" src="/introduction/mail.png">ご連絡ください。
+当会に興味のある方は<img style="display:inline;height:1em" src="/introduction/mail.png">にご連絡ください。
 Please feel free to contact us by email <img style="display:inline;height:1em" src="/introduction/mail.png">
 
 クライミングには初心者の方も『入門』から指導いたします。
