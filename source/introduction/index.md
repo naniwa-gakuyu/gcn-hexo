@@ -35,20 +35,20 @@ Having training and activities not only on weekends but also on weekdays.
 Please <a target="_top" href="mailto:info201404_gcnaniwa@freeml.com">email</a> us for further details.
 
 
-## 会員の年齢構成 Members age distribution  (2019/02/26  29名)
+## 会員の年齢構成 Members age distribution  (2019/10/12  33名)
 
 |   | 男性(Male) | 女性(Female)|
 |----------------|---------------|
-| 20代 | 4名 | 2名  |
-| 30代 | 3名 | 1名 |
-| 40代 | 4名 | 1名 |
-| 50代 | 4名 | 6名 |
-| 60代以上 | 3名 | 1名 |
+| 20代 | 5名 | 1名  |
+| 30代 | 2名 | 1名 |
+| 40代 | 5名 | 0名 |
+| 50代 | 6名 | 7名 |
+| 60代以上 | 5名 | 1名 |
 
 | 都道府県別(Pref) | 人数
 |----------------|---------------|
-| 大阪(Osaka) | 16名 |
-| 兵庫(Hyogo) | 5名 |
+| 大阪(Osaka) | 17名 |
+| 兵庫(Hyogo) | 8名 |
 | 京都(Kyoto) | 4名 |
 | 奈良(Nara) | 1名 |
 | 滋賀(Shiga) | 1名 |
