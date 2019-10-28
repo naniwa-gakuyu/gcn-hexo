@@ -31,8 +31,8 @@ Having monthly meeting at our office, reporting activities and planning.
 Having activities mostly on Japan Alps once a month or every two months.
 - 土日だけではなく平日にも練習・山行あります。 
 Having training and activities not only on weekends but also on weekdays.
-詳しくは<img style="display:inline;height:1em" src="/introduction/mail.png">にお問い合わせください。 
-Please email us <img style="display:inline;height:1em" src="/introduction/mail.png"> for further details.
+詳しくは<a target="_top" href="mailto:info201404_gcnaniwa@freeml.com">メール</a>にてお問い合わせください。 
+Please <a target="_top" href="mailto:info201404_gcnaniwa@freeml.com">email</a> us for further details.
 
 
 ## 会員の年齢構成 Members age distribution  (2019/10/12  33名)
@@ -59,3 +59,5 @@ Please email us <img style="display:inline;height:1em" src="/introduction/mail.p
   山田慶周(国内外のバリエーションルートのプロ山岳ガイド)
   Yoshichika Yamada
   Professional alpine guide for variation route in domestic and overseas.
+
+
