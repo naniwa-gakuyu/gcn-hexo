@@ -26,13 +26,8 @@ You will acquire safety mountaineering thoroughly.
 体験訓練や集会にご参加していただくことも可能です。
 It is also possible to join training and meeting for trial.
 
-<<<<<<< HEAD
-当会に興味のある方は<img style="display:inline;height:1em" src="/introduction/mail.png">にご連絡ください。
-Please feel free to contact us by email <img style="display:inline;height:1em" src="/introduction/mail.png">
-=======
 当会に興味のある方は、<a target="_top" href="mailto:info201404_gcnaniwa@freeml.com">メール</a>にてご連絡ください。
 Please feel free to contact us by <a target="_top" href="mailto:info201404_gcnaniwa@freeml.com">email</a>
->>>>>>> parent of 3cb43648... changed email address
 
 クライミングには初心者の方も『入門』から指導いたします。
 We will train beginner of climbing from beginning.
