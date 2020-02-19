@@ -41,12 +41,24 @@ We will train beginner of climbing from beginning.
 - Above 18 years old to up to 55 years old. (Please ask us if you are above 55 years old)
 
 ## 会費 Membership fee
-| | | |
+
+|〜2020/4 | | |
 |---|---|:---|
 | 入会金<br>Admission fee||￥8,000
 | 年会費<br> Annual fee|一般会員<br>for General|￥6,000
 | |学生会員<br> for Student|￥4,000
 | |夫婦会員(２人)<br> for married couple|￥10,000
+| |休会員<br> for Inactive member|￥2,000
+
+来年度より下記の通り変更いたします。
+Following fees are applies from comming term.
+
+|2020/4〜 | | |
+|---|---|:---|
+| 入会金<br>Admission fee||￥5,000
+| 年会費<br> Annual fee|一般会員<br>for General|￥9,600
+| |学生会員<br> for Student|￥6,000
+| |夫婦会員(２人)<br> for married couple|￥16,000
 | |休会員<br> for Inactive member|￥2,000
 いずれも、別途、山岳保険には入っていただきます。　
 Mountain insurance is required in each case.
