@@ -3,9 +3,26 @@
 
 <img src=gcn.png style="margin-left:50px"/>
 
-
 ## なにわ岳友クラブ(GCN)では会員を募集しています。
 ### Our club also welcomes foreign citizen who lives in Kansai region for climbing with us.
+
+本会は創立5年が過ぎ、若き会員も高みを求めて日々訓練に頑張っています。 
+現会員の殆どが入会前、ザイルさえ知ら会員でしたが、
+創立者の会長は長野県山岳救助隊出身で、
+安全登山を第1にゲレンデで徹底した基礎訓練を実施、
+アルプスの岩・山に挑戦しています。
+It's been 5 years since the club was founded.
+Young newly joined members also are training hard to aim high.
+Current members who even didn't know much about rope when most of them joined
+are challenging rocks and mountains in Japan Alps while training in secure first
+under the founder and chairperson who was from rescue team in Nagano.
+
+会が求めている入会条件は体力とやる気です。技術は求めていません。
+Our requrements to join the club are only stamina and motivation not technics.
+大自然の岩・山に挑戦してみたい方は、ゲレンデ訓練体験を実施していますので、
+大きな夢を持って一度体験訓練に第一歩を踏み出してみませんか・・
+Snce guests who want to challenge rocks and mountains can join our training in trial,
+will you join and step forward with having big dreams?
 
 アルパインクライミングに興味がある方、入会時の技術、経験は求めていません。
 高みを目指す意思（やる気）を大切にしています。
@@ -13,7 +30,7 @@
 やる気さえありましたら初心者の方も大歓迎です。
 Technics and experiences are not necessary to join our club.
 The most important thing is motivation to aim high.
-Will you step forward to aim high with us.
+Will you step forward to aim high with us?
 Motivated Beginner is also welcomed.
 
 アルパインスタイルに興味はあるけれど、ハードルが高いのではないかと不安を抱かれる方のために
