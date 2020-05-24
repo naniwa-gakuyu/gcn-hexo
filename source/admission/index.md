@@ -1,5 +1,10 @@
 ## 楽しい山行のために技術と知識を身につけれます
+## 基本的な登攀訓練不足による遭難事故が年々増加しています。
+## 基本訓練を行い、楽しい登攀のためにも山岳会に入会しましょう。
+
 ### You can acquire technics and knowledge for pleasant Mountaineering.
+### Mountian accidents are increasing year by year due to lacking of basic climbing training.
+### Join a mauntaineering club to trains basics and for fun clibming.
 
 <img src=gcn.png style="margin-left:50px"/>
 
@@ -7,7 +12,7 @@
 ### Our club also welcomes foreign citizen who lives in Kansai region for climbing with us.
 
 本会は創立5年が過ぎ、若き会員も高みを求めて日々訓練に頑張っています。 
-現会員の殆どが入会前、ザイルさえ知ら会員でしたが、
+現会員の殆どが入会前、ザイルさえ知らない会員でしたが、
 創立者の会長は長野県山岳救助隊出身で、
 安全登山を第1にゲレンデで徹底した基礎訓練を実施、
 アルプスの岩・山に挑戦しています。
@@ -46,36 +51,21 @@ It is also possible to join training and meeting for trial.
 当会に興味のある方は<img style="display:inline;height:1em" src="/introduction/mail.png">にご連絡ください。
 Please feel free to contact us by email <img style="display:inline;height:1em" src="/introduction/mail.png">
 
-クライミングには初心者の方も『入門』から指導いたします。
-We will train beginner of climbing from beginning.
-　
 ## 応募条件 Entry condition.
 - クライミングに興味を持っている方で健康な方。
 - 経験の有無は問いません。初心者の方も『入門』から指導します。
 - １８歳以上５５歳以下(５５歳を超える方はお問い合わせください)
 - Healthy person who is interested in climbing.
-- Experience does not matter. We will train from very beginning.
+- Experience does not matter. We train from very beginning.
 - Above 18 years old to up to 55 years old. (Please ask us if you are above 55 years old)
 
 ## 会費 Membership fee
 
-|〜2020/4 | | |
-|---|---|:---|
-| 入会金<br>Admission fee||￥8,000
-| 年会費<br> Annual fee|一般会員<br>for General|￥6,000
-| |学生会員<br> for Student|￥4,000
-| |夫婦会員(２人)<br> for married couple|￥10,000
-| |休会員<br> for Inactive member|￥2,000
-
-来年度より下記の通り変更いたします。
-Following fees are applies from comming term.
-
-|2020/4〜 | | |
 |---|---|:---|
 | 入会金<br>Admission fee||￥5,000
 | 年会費<br> Annual fee|一般会員<br>for General|￥9,600
 | |学生会員<br> for Student|￥6,000
-| |夫婦会員(２人)<br> for married couple|￥16,000
+| |家族会員(2人分)<br> for family member(for 2 persons)|￥16,000
 | |休会員<br> for Inactive member|￥2,000
 いずれも、別途、山岳保険には入っていただきます。　
 Mountain insurance is required in each case.
