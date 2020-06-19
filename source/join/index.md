@@ -75,4 +75,4 @@ Mountain insurance is required in each case.
 Our club never disclose nor supply personal information in email to a third party.
 
 ** 会のこと、入会について、ゲレンデ訓練体験などのお問い合わせは<img style="display:inline;height:1em" src="/introduction/mail.png">にご連絡ください！！**
-** Aboout out club, admission, and trial training, please feel free to email us <img style="display:inline;height:1em" src="/introduction/mail.png">**
+** Aboout our club, joinning, and trial training, please feel free to email us <img style="display:inline;height:1em" src="/introduction/mail.png">**
