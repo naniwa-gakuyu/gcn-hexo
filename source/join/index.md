@@ -61,12 +61,14 @@ Please feel free to contact us by email <img style="display:inline;height:1em" s
 
 ## 会費 Membership fee
 
+|   |   |   |
 |---|---|:---|
-| 入会金<br>Admission fee||￥5,000
-| 年会費<br> Annual fee|一般会員<br>for General|￥9,600
+| 入会金<br>Admission fee ||￥6,000|
+| 年会費<br> Annual fee|一般会員<br>for General|￥9,600|
 | |学生会員<br> for Student|￥6,000
-| |家族会員(2人分)<br> for family member(for 2 persons)|￥16,000
-| |休会員<br> for Inactive member|￥2,000
+| |家族会員(2人分)<br> for family member(for 2 persons)|￥16,000|
+| |休会員<br> for Inactive member|￥2,000|
+
 いずれも、別途、山岳保険には入っていただきます。　
 Mountain insurance is required in each case.
 
