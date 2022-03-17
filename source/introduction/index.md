@@ -39,8 +39,8 @@ Please email us <img style="display:inline;height:1em" src="/introduction/mail.p
 
 ## 会員の年齢構成 Members age distribution  (2019/10/12  33名)
 
-|   | 男性(Male) | 女性(Female)|
-|----------------|---------------|
+| 年代 | 男性(Male) | 女性(Female)|
+|--|---|--------|
 | 20代 | 5名 | 1名  |
 | 30代 | 2名 | 1名 |
 | 40代 | 5名 | 0名 |
