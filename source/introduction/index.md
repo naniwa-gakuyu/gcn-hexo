@@ -4,15 +4,18 @@
 
 <img src=intro2.jpg style="margin-right:50px"/>
 
+
 <div style="text-align: right;">
-*** モットーは安全第一と徹底した基本第一　***
+
+*** モットーは安全第一と徹底した基本第一 ***
 *** 最高の保険は基本の徹底と行動知識と考えています ***
 *** また、我々の仲間は我々仲間で助けるを念頭にセルフレスキューを徹底しています ***
 *** （創立者、元長野県レスキュー隊） ***
-*** Safety first and thorough basics.  ***
-*** We consider through basics and mountaineering skills as most powerful insurance.
-*** And we're enforcing self rescue to help our members by ourself.  ***
-*** （Founder, former rescue team in Nagano） ***
+*** Safety first and thorough basics. ***
+*** We consider through basics and mountaineering skills as most powerful insurance. ***
+*** And we're enforcing self rescue to help our members by ourself. ***
+*** (Founder, former rescue team in Nagano) ***
+
 </div>
 
 
